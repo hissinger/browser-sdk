@@ -7,3 +7,6 @@ RemoteMonster의 브라우저 SDK를 이용하여 만든 예제 코드 모음 �
 
 ## [Full Features](https://remotemonster.github.io/browser-sdk/examples/full/)
 RemoteMonster가 제공하는 다양한 기능을 사용한 예제 입니다.
+
+## [방송 예제](https://remotemonster.github.io/browser-sdk/examples/cast/)
+RemoteMonster가 제공하는 방송 기능을 사용한 예제 입니다.

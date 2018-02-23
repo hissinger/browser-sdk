@@ -1,12 +1,14 @@
 # RemoteMonster Browser SDK
-WebRTC 기반의 앱과 웹을 위한 통화 클라우드, RemoteMonster의 브라우저 SDK 입니다. 자세한 사용법은 아래 링크를 참고하세요.
+WebRTC 기반의 앱과 웹을 위한 방송, 통화 클라우드, RemoteMonster의 브라우저 SDK 입니다. 자세한 사용법은 아래 링크를 참고하세요.
 - [Website](https://remotemonster.com)
 - [Documents](https://docs.remotemonster.com/ko/)
 
 ## Examples
-examples 폴더에 사용예제가 담겨있습니다.
+통화 관련 사용예제
 - [examples/full](https://remotemonster.github.io/browser-sdk/examples/full/)
 - [examples/simple](https://remotemonster.github.io/browser-sdk/examples/simple/)
+방송 관련 사용예제
+- [examples/cast](https://emotemonster.github.io/browser-sdk/examples/cast/)
 
 ## Documents
 doc 폴더에 API 문서가 담겨있습니다.
